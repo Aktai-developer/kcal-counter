@@ -13,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/../IT WORKS/text-editor/.idea/text-editor.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IT WORKS/tim homework/.idea/tim homework.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IT WORKS/to do list/.idea/to do list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/media-app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep_projects/.babelrc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep_projects/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep_projects/index.html" afterDir="false" />
@@ -53,6 +54,9 @@
       <change afterPath="$PROJECT_DIR$/../weather/src/components/weather.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../weather/src/components/weatherVie.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../weather/src/components/weatherVie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../team-project" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606817164595</updated>
-      <workItem from="1606817165916" duration="17950000" />
+      <workItem from="1606817165916" duration="18839000" />
     </task>
     <servers />
   </component>
