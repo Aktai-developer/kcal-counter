@@ -13,25 +13,6 @@
       <change afterPath="$PROJECT_DIR$/../IT WORKS/text-editor/.idea/text-editor.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IT WORKS/tim homework/.idea/tim homework.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IT WORKS/to do list/.idea/to do list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/callories.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/calories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep_projects/.babelrc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep_projects/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep_projects/index.html" afterDir="false" />
@@ -110,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606817164595</updated>
-      <workItem from="1606817165916" duration="17680000" />
+      <workItem from="1606817165916" duration="17950000" />
     </task>
     <servers />
   </component>
